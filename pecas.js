@@ -11,7 +11,7 @@ if (listaPeças.length < 10) {
     console.log ("A lista ainda possui espaço para mais peças")    
 } else {
     console.log ("Não há espaço disponível na lista, a capacidade máxima foi atingida")
-    
+
 }
 let nomePeca = "Disco de freio"
 if ( nomePeca.length> 3) {
